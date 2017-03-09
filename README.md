@@ -15,4 +15,4 @@
 
 ### 2. 在Module的build.gradle添加依赖
 
-    compile 'com.github.open-android:RoundedImageView:v1.0.0'
+    compile 'com.github.jybin88:CommonRes:V0.1'
